@@ -1,1 +1,3 @@
 # rest-training-center
+
+rest client and rest server for development purposes ... 
